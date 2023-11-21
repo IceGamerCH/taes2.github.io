@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title> Tab 2 </title>
+
+
+
+    </head>
+
+
+
+    <body>
+        <h3>
+            <p title="กลับหน้า1" style="color: forestgreen;"><a href="http://127.0.0.1:5500/index.html" style="color: forestgreen;" style="font-size: large;">กลับหน้า1</a></p>
+        
+        </h3>
+        <h2>ส่วนของหน้า2</h2>
+
+
+
+    </body>
+
+
+
+</html>
